@@ -1,6 +1,6 @@
 # conduit-futures
 
-FIXME: write description
+A Conduit module to execute procs in futures with optional timeout
 
 ## Usage
 
